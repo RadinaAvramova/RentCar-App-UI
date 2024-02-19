@@ -1,4 +1,4 @@
-# Rent Car App UI in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
+# Rent Car App UI
 
 Get the complete code of this UI, and for guidance, you can also watch [this video](https://youtu.be/80vWzQB0Eto).
 

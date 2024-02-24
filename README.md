@@ -1,6 +1,6 @@
 # Rent Car App UI
 
-Get the complete code of this UI, and for guidance, you can also watch [this video](https://youtu.be/80vWzQB0Eto).
+Get the complete code of this UI, and for guidance
 
 ## Screenshots
 
